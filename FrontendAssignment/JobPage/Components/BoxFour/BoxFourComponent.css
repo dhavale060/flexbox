@@ -1,0 +1,86 @@
+.Rectangle-21{
+    position: absolute;
+    width: 245px;
+    height: 201px;
+    margin: 383px 185px 1148px 1010px;
+    /* border: 2px solid black; */
+    /* left: 1010px;
+    top: 383px; */
+    background: #FFFFFF;
+    border-radius: 5px;
+}
+.location{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    margin: 15px 201px 162px 20px;
+    /* left: 1030px;
+    top: 398px; */
+    /* border: 1px solid green;     */
+}
+.location-logo{
+    position: absolute;
+    left: 16.67%;
+    right: 16.67%;
+    top: 8.33%;
+    width: 16px;
+    height: 20px;
+    bottom: 8.33%;
+    background: url("E:\movie_app\src\FrontendAssignment\JobPage\Images\location.png");
+    background-size: cover;
+}
+.location_text{
+    position: absolute;
+    width: 109px;
+    height: 19px;
+    margin: 18px 73px 164px 63px;
+    /* border: 2px solid green; */
+    /* left: 1073px;
+    top: 401px; */
+    font-family: 'SF Pro';
+    font-style: normal;
+    font-weight: 590;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+}
+.Mt_Usa{
+    position: absolute;
+    width: 188px;
+    height: 64px;
+    margin: 57px 6px 80px 63px;
+    /* border: 2px solid green; */
+    /* left: 1073px;
+    top: 440px; */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+}
+.Rectangle-2477{
+    position: absolute;
+    width: 90px;
+    height: 30px;
+    margin: 128px 92px 43px 63px;
+    /* left: 1073px;
+    top: 511px; */
+    background: #FCCDED;
+    border-radius: 40px;
+}
+.Rectangle-2477 p{
+    position: absolute;
+    width: 56px;
+    height: 19px;
+    margin: 7px 16px 4px 18px;
+    /* left: 1091px;
+    top: 518px; */
+    font-family: 'SF Pro';
+    font-style: normal;
+    font-weight: 590;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    
+}

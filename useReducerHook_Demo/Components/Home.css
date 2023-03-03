@@ -1,0 +1,19 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.container{
+    display: grid;
+    justify-content: center;
+}
+.form_container{
+    width: 400px;
+    border: 2px solid black;
+    padding: 47px;
+    margin: 50px 0px;
+    border-radius: 10px;
+    background: beige;
+}
+.btn_container{
+    display:grid;
+}

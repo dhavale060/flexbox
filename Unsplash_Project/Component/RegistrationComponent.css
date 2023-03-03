@@ -1,0 +1,19 @@
+.main_container{
+  display: flex;
+  /* align-items: center; */
+  margin-top: 100px;
+  justify-content: space-around;
+}
+.form-box{
+   width: 400px;
+   height: 600px;
+   background-color: aliceblue;
+   padding: 5px;
+   margin: 5px;
+   border: 2px solid black;
+}
+.box{
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+}

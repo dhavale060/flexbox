@@ -1,0 +1,21 @@
+@media (min-width: 768px){
+.b4j4s {
+    height: 62px;
+    width: 100%;
+    position: sticky;
+    /* margin-top: 62px; */
+}
+.Qm9DC {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+}
+
+.b4j4s {
+    background: #fff;
+    position: sticky;
+    z-index: 2;
+}
+.Ef4NL {
+    box-shadow: 0 4px 12px #00000014, 0 0 1px #0100001a;
+}

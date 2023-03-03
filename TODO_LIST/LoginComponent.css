@@ -1,0 +1,14 @@
+.box_1{
+  display: flex;
+  justify-content:center ;
+  margin-top: 100px;
+}
+.form_box{
+    height: 350px;
+    margin-top: 176px;
+    /* border: 2px solid #212529; */
+    background-color: white;
+    width: 400px;
+    border-radius: 12px;
+    padding: 40px;
+}

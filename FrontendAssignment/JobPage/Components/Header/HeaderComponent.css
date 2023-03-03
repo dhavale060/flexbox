@@ -1,0 +1,191 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main_container{
+    position: absolute;
+    width: 1440px;
+    height: 60px;
+    left: 0px;
+    top: 0px;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.08);
+}
+.blue_4{
+   position: absolute;
+   width: 44px;
+   height: 44px;
+   margin-top:8px;
+   left: 1.67%;
+   right: 95.28%;
+    top: 0.46%;
+    bottom: 97%;
+    background: url("E:\movie_app\src\FrontendAssignment\JobPage\Images\Blue 4 (1).png"); 
+}
+/* .img_box_back{
+    position: absolute;
+    left: 1.67%;
+    right: 95.28%;
+    top: 0.46%;
+    bottom: 97%;
+    background: url("E:\movie_app\src\FrontendAssignment\JobPage\Images\Blue 4 (1).png");
+} */
+.nav_logo{
+    position: absolute;
+    width: 166px;
+    height: 46px;
+    margin: 9px 1190px 5px 0px;
+    left: 5.83%;
+right: 82.64%;
+top: 0.52%;
+bottom: 96.82%;
+font-family: 'Lora';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 41px;
+color: #14203A;
+}
+.star_06{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    margin-left: 1011px;
+    margin-top: 9px;
+}
+.icon_06{
+    position: absolute;
+    max-width: 100%;
+    left: 8.33%;
+    right: 8.33%;
+    top: 8.33%;
+    bottom: 8.33%;
+    /* background: url("E:\movie_app\src\FrontendAssignment\JobPage\Other\star-06.png");    */
+}
+.globe_03{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 1106px;
+    top: 9px;
+}
+.icon_03{
+    position: absolute;
+    max-width: 100%;
+    left: 8.33%;
+    right: 8.33%;
+    top: 8.33%;
+    bottom: 8.33%;       
+}
+.briefcase_01{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 1183px;
+    top: 8px;
+}
+.briefcase-01{
+    position: absolute;
+    max-width: 100%;
+    left: 8.33%;
+    right: 8.33%;
+    top: 12.5%;
+    bottom: 12.5%;    
+}
+.mail_02{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 1265px;
+    top: 10px;
+}
+.mail-02{
+    position: absolute;
+    max-width: 100%;
+    left: 8.33%;
+    right: 8.33%;
+    top: 16.67%;
+    bottom: 16.67%;   
+}
+.user_01{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 1363px;
+    top: 9px;
+}
+.user-01{
+    position: absolute;
+    max-width: 100%; 
+    left: 16.67%;
+    right: 16.67%;
+    top: 12.5%;
+    bottom: 12.5%;
+}
+.text_1{
+    position: absolute;
+    width: 64px;
+    height: 11px;
+    margin-left: 991px;
+    margin-top: 38px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 13px;
+    color: #000000;
+}
+.text_2{
+    position: absolute;
+    width: 62px;
+    height: 11px;
+    margin-left: 1087px;
+    margin-top: 38px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 13px;
+    color: #000000;
+}
+.text_3{
+    position: absolute;
+    width: 28px;
+    height: 11px;
+    margin-left: 1181px;
+    margin-top: 38px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 13px;
+    color: #000000;
+}
+.text_4{
+    position: absolute;
+    width: 72px;
+    height: 11px;
+    margin-left: 1241px;
+    margin-top: 38px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 13px;
+    color: #000000;
+    
+}
+.text_5{
+    position: absolute;
+    width: 61px;
+    height: 11px;
+    margin-left: 1345px;
+    margin-top: 38px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 13px;
+    color: #000000;
+    
+}

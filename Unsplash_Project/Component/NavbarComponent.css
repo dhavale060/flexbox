@@ -1,0 +1,156 @@
+.nav_item{
+    height: 62px;
+    /* position: sticky; */
+    top: 0;
+    z-index: 4;  
+}
+.Qgh{
+    align-items: center;
+    background-color: #fff;
+    display: flex;
+}
+@media (min-width: 768px) {
+.Qgh{
+    padding-inline-start: 20px;
+    padding-inline-end: 20px;
+}
+.KHFeP{
+    height: 32px;
+    width: 32px;
+}
+.YN6Wg {
+    display: flex;
+}
+.sIpir {
+    display: flex;
+}
+}
+
+.svgp{
+   vertical-align: middle;
+   height: 32px;
+   width: 32px;
+}
+.option{
+   flex-shrink: 0;
+   width: 16px;
+}
+.YN6Wg{
+    align-items: center;
+    padding-inline: 20px;
+}
+.ruKGA{
+    list-style-position: initial;
+    list-style-image: initial;
+    list-style-type: none;
+    padding-left: 0;
+}
+.oh0KJ{
+    margin-bottom: 0;
+    margin-top: 0;
+}
+.ztehP {
+    display: block;
+    font-size: 14px;
+    padding: 20px 12px;
+    text-decoration: none;
+    white-space: nowrap;
+}
+.KHq0c {
+    font-weight: 500;
+}
+a{
+    color: #767676;
+    transition: color .1s ease-in-out , opacity .1s ease-in-out;  
+}
+.f9ubX {
+    background-color: #d1d1d1;
+    content: "";
+    height: 32px;
+    width: 1px;
+}
+.div_x{
+    flex-shrink: 0;
+    width: 21px;
+}
+.pljfe {
+    align-items: center;
+    color: #767676;
+    display: flex;
+}
+
+.cLLOA {
+    color: #767676;
+}
+.EzsBC {
+    font-size: 14px;
+    height: 32px;
+    line-height: 30px;
+    padding: 0 11px !important;
+}
+.p1cWU {
+    fill: currentColor;
+    border: 1px solid #0000 !important;
+    border-radius: 4px;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    transition: all .1s ease-in-out;
+    -webkit-user-select: none;
+    user-select: none;
+    white-space: nowrap;
+}
+.KHq0c {
+    font-weight: 500;
+}
+.jpBZ0 {
+    background-color: initial;
+    border: none;
+    font-weight: inherit;
+    padding: 0;
+    text-align: inherit;
+}
+.CwMIr {
+    background-color: #fff;
+    border-color: #d1d1d1 !important;
+    color: #767676;
+}
+.DQBsa {
+    box-shadow: 0 1px 1px #0000000a;
+}
+.DKmkh {
+    display: none;
+}
+.TkpKu {
+    display: inline-block;
+}
+
+.QeEH8 {
+    height: 100%;
+    fill: currentColor;
+    color: #767676;
+    line-height: 1;
+    padding-left: 4px !important;
+    padding-right: 4px !important;
+    transition: color .1s ease-in-out;
+    vertical-align: middle;
+    position: relative;
+    background-color: initial;
+    border: none;
+    font-weight: inherit;
+    padding: 0;
+    text-align: inherit;
+}
+/* .HFqVz {
+    position: relative;
+}
+.jpBZ0 {
+    background-color: initial;
+    border: none;
+    font-weight: inherit;
+    padding: 0;
+    text-align: inherit;
+} */
+.BOTrp {
+    display: block;
+}

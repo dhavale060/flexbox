@@ -1,0 +1,140 @@
+.Rectangle-18{
+    position: absolute;
+    width: 245px;
+    height: 201px;
+    margin: 383px 1010px 1148px 185px;
+    /* left: 185px;
+    top: 383px; */
+    background: #FFFFFF;
+    border-radius: 5px;
+    /* border: 2px solid black; */
+}
+.bolt{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    margin: 14px 201px 163px 20px;
+    /* border: 2px solid green; */
+    /* margin-left: 205px;
+    margin-top: 397px; */
+}
+.bolt-vector{
+    position: absolute;
+    left: 16.72%;
+    right: 16.67%;
+    top: 8.12%;
+    bottom: 8.33%;
+    background: url("E:\movie_app\src\FrontendAssignment\JobPage\Images\Vector1.png");
+    background-size: cover; 
+}
+.soft_skill_text{
+    position: absolute;
+    width: 144px;
+    height: 19px;
+    margin: 18px 40px 164px 61px;
+    /* left: 246px;
+    top: 401px; */
+    font-family: 'SF Pro';
+    font-style: normal;
+    font-weight: 590;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+    
+}
+.Rectangle-24{
+    position: absolute;
+    width: 81px;
+    height: 33px;
+    margin: 55px 133px 113px 31px;
+    /* left: 216px;
+    top: 438px; */
+    background: #0F1420;
+    border-radius: 40px;
+}
+.repeat{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    /* left: 222px;
+    top: 444px; */
+    margin: 6px 55px 7px 6px;
+    /* border: 2px solid white; */
+   /* background: url("E:\movie_app\src\FrontendAssignment\JobPage\Images\Vector.png");
+    background-size: cover;
+    background-position: center;  */
+    /* background: #FFFFFF; */
+}
+.repeat-vector{
+    position: absolute;
+    left: 16.72%;
+    right: 16.67%;
+    top: 8.12%;
+    bottom: 8.33%;
+    /* background: #FFFFFF; */
+    background: url("E:\movie_app\src\FrontendAssignment\JobPage\Images\Vector.png");
+    background-size: cover;
+}
+.rhino{
+    position: absolute;
+    width: 41px;
+    height: 20px;
+    margin: 8px 11px 5px 29px;
+    /* margin-left: 245px;
+    margin-top: 446px; */
+    font-family: 'SF Pro';
+    font-style: normal;
+    font-weight: 590;
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
+}
+.Rectangle-26{
+    position: absolute;
+    width: 91px;
+    height: 33px;
+    margin: 55px 30px 113px 124px;
+    /* left: 309px;
+    top: 438px; */
+    background: #0F1420;
+    border-radius: 40px;
+}
+.Rectangle-26 p{
+    position: absolute;
+    width: 65px;
+    height: 20px;
+    margin: 8px 13px 5px 13px;
+    /* left: 322px;
+    top: 446px; */
+    font-family: 'SF Pro';
+    font-style: normal;
+    font-weight: 590;
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
+}
+.Rectangle-25{
+    position: absolute;
+    width: 122px;
+    height: 33px;
+    margin: 100px 62px 68px 61px;
+    /* left: 246px;
+    top: 483px; */
+    background: #0F1420;
+    border-radius: 40px;
+}
+.Rectangle-25 p{
+    position: absolute;
+    width: 91px;
+    height: 20px;
+    margin: 8px 14px 5px 17px;
+    /* left: 263px;
+    top: 491px; */
+    font-family: 'SF Pro';
+    font-style: normal;
+    font-weight: 590;
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
+}
+  

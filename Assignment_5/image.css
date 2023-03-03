@@ -1,0 +1,10 @@
+.main_div{
+justify-content: space-around;
+}
+.img_div{
+  height: 300px;
+  width: 300px;
+}
+.set_img :hover{
+    src : './gymebg.png.jpg';
+}

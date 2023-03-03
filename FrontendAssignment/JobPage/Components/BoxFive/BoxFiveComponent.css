@@ -1,0 +1,108 @@
+.Rectangle-22{
+    position: absolute;
+    width: 245px;
+    height: 200px;
+    margin: 608px 185px 924px 1010px;
+    /* border: 2px solid black; */
+    /* left: 1010px;
+    top: 608px; */
+    background: #FFFFFF;
+    border-radius: 5px;
+}
+.job-poster{
+    position: absolute;
+    width: 101px;
+    height: 17px;
+    margin: 18px 107px 165px 37px;
+    /* border: 2px solid green; */
+    /* left: 1047px;
+    top: 626px; */
+    font-family: 'SF Pro';
+    font-style: normal;
+    font-weight: 590;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: inherit;
+    color: #000000;
+    
+}
+.Img_round{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    margin: 58px 158px 92px 37px;
+    /* left: 1047px;
+    top: 666px; */
+    background: url("E:\movie_app\src\FrontendAssignment\JobPage\Images\2CCCA2E6-BCB7-47BE-8DF3-073347686B17 1.png");
+    border-radius: 500px;
+    background-size: cover;
+}
+.John_text{
+    position: absolute;
+    width: 113px;
+    height: 49px;
+    margin: 57px 36px 94px 96px;
+    /* border: 1px solid green; */
+    /* left: 1106px;
+    top: 665px; */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 22.04px;
+    color: #000000;
+}
+.John_text span{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 32.07px;
+    color: #000000;
+}
+.Rectangle-12{
+    position: absolute;
+    width: 151px;
+    height: 34px;
+    margin: 133px 47px 33px 47px;
+    /* left: 1057px;
+    top: 741px; */
+    background: #0F1420;
+    border-radius: 50px
+}
+.mail_2{
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    margin: 5px 111px 7px 18px;
+    /* border: 1px solid white; */
+    /* left: 1075px;
+    top: 746px;     */
+}
+.mail-logo{
+    position: absolute;
+    max-width: 100%;
+    width: 18.33px;
+    height: 14.67px;
+    left: 8.33%;
+    right: 8.33%;
+    top: 16.67%;
+    bottom: 16.67%;
+    background: url("E:\movie_app\src\FrontendAssignment\JobPage\Images\Icon.png");
+    background-size: cover;
+    /* border: 2px solid #FFFFFF; */
+}
+.One_text{
+    position: absolute;
+    width: 83px;
+    height: 17px;
+    margin: 6px 18px 11px 50px;
+    /* left: 1107px;
+    top: 747px; */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}

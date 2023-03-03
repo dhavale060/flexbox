@@ -1,0 +1,11 @@
+*{
+ margin: 0px;
+ padding: 0px;
+}
+.main_container{
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 2200px;
+    background: #F9F9F9 0% 0% no-repeat padding-box;
+}

@@ -1,0 +1,21 @@
+@import '../Redux-Toolkit-project/Common/colour.scss';
+
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: sans-serif Open;
+}
+a{
+  text-decoration: none;
+  color: $font-primary;
+}
+body{
+  background: $primary-color;
+}
+// .app{
+//   background: $primary-color;
+// }
+.container_main{
+  margin: 0px 40px;
+}

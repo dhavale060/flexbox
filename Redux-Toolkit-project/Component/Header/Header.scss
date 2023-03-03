@@ -1,0 +1,34 @@
+@import '../../Common/colour.scss';
+
+.header{
+    background-color: $secondary-color;
+    height: 72px;
+    padding: 0px 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+// .search-bar{
+//     padding-top: 15px;
+// }
+.logo{
+    color: $font-primary;
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+}
+// .user-image{
+//     width: 38px;
+//     height: 38px;
+//     color: $font-primary;
+// } 
+.img{
+    width: 38px;
+    height: 38px;
+    color: $font-primary !important;
+    font-size: xx-large;
+}
+.search-icon{
+  color: $font-primary !important;
+  cursor: pointer;  
+}

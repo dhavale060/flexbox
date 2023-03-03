@@ -1,0 +1,121 @@
+.rectangle_22{
+    position: absolute;
+    width: 795px;
+    height: 1105px;
+    margin: 608px 460px 19px 185px;
+    /* border: 2px solid black; */
+    /* left: 185px;
+    top: 608px; */
+    background: #FFFFFF;
+    border-radius: 5px;
+}
+.applay_btn{
+    position: absolute;
+    width: 242px;
+    height: 44px;
+    margin: 998px 480px 63px 73px;
+    /* left: 258px;
+    top: 1606px; */
+    background: linear-gradient(86.54deg, #F26A5C 7.4%, #F29C6B 115.84%);
+    border-radius: 50px;
+}
+.btn_text{
+    position: absolute;
+    width: 186px;
+    height: 24px;
+    margin: 10px 25px 10px 31px;
+    /* left: 289px;
+    top: 1616px; */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+    
+}
+.Save_btn{
+    position: absolute;
+    width: 115px;
+    height: 44px;
+    margin: 998px 341px 63px 339px;
+    /* left: 524px;
+    top: 1606px; */
+    background: #0F1420;
+    border-radius: 50px;
+}
+.btn-box{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    /* border: 1px solid white; */
+    margin: 8px 74px 12px 17px;
+    /* left: calc(50% - 24px/2 - 167px);
+    top: calc(50% - 24px/2 + 760px)     */
+}
+.star-icon{
+    position: absolute;
+    width: 18.82px;
+    height: 17.9px;
+    left: 8.77%;
+    right: 12.8%;
+    top: 12.5%;
+    bottom: 12.91%;
+    mix-blend-mode: normal;
+    background: url("E:\movie_app\src\FrontendAssignment\JobPage\Images\Star.png");
+    background-size: cover;
+    /* border: 2px solid #FFFFFF; */
+}
+.Star_text{
+    position: absolute;
+    width: 88px;
+    height: 24px;
+    margin: 10px 22px 10px 49px;
+    /* border: 1px solid white; */
+    /* left: 573px;
+    top: 1616px; */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+    
+}
+.Refer{
+    box-sizing: border-box;
+    position: absolute;
+    width: 210px;
+    height: 44px;
+    margin: 998px 102px 63px 483px;
+    /* left: 668px;
+    top: 1606px; */
+    background: #0F1420;
+    border-radius: 50px;
+}
+.Shair-point{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    margin: 10px 171px 10px 15px;
+    /* border: 1px solid white; */
+    background: url("E:\movie_app\src\FrontendAssignment\JobPage\Images\share-android (2).png");
+    background-size: cover;
+    /* left: calc(50% - 24px/2 - 25px);
+    top: calc(50% - 24px/2 + 762px);     */
+}
+.Refer-text{
+    position: absolute;
+    width: 136px;
+    height: 24px;
+    margin: 10px 24px 10px 50px;
+    /* left: 718px;
+    top: 1616px; */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+    
+}

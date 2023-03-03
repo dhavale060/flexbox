@@ -1,0 +1,52 @@
+.Sub_Container{
+    position: absolute;
+    width: 651px;
+    height: 940px;
+    margin: 33px 71px 132px 73px;
+    /* left: 258px;
+    top: 641px; */
+    font-family: 'SF Pro';
+    font-style: normal;
+    font-weight: 590;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+    /* border: 1px solid yellow; */
+    
+}
+.Sub_Container h4{
+    /* font-family: 'Roboto' !important; */
+    font-style: normal !important;
+    font-weight: 590 !important;
+    font-size: 18px !important;
+    line-height: 21.48px !important;
+    color: #000000;    
+}
+.Sub_Container p{
+    font-family: 'Roboto' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    /* font-size: 16px !important; */
+    line-height: 19.36px !important;
+    color: #000000; 
+}
+.Sub_Container h6{
+    font-family: 'Roboto' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 18px !important;
+    line-height: 18.15px !important;
+    color: #000000; 
+}
+.Sub_Container ul{
+    list-style: disc;
+    font-size: x-small;
+}
+.Sub_Container ul li p{
+    font-family: 'Roboto' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 18px !important;
+    line-height: 18.15px !important;
+    color: #000000; 
+}

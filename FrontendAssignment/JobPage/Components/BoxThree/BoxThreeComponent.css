@@ -1,0 +1,61 @@
+.Rectangle-20{
+    position: absolute;
+    width: 245px;
+    height: 201px;
+    margin: 383px 460px 1148px 735px;
+    /* border: 2px solid black; */
+    /* left: 735px;
+    top: 383px; */
+    background: #FFFFFF;
+    border-radius: 5px;
+}
+.doller{
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    margin: 17px 203px 162px 20px;
+    /* border: 1px solid green; */
+    /* left: 755px;
+    top: 400px;     */
+}
+.doller-vector{
+    position: absolute;
+    width: 11px;
+    height: 18.33px;
+    left: 25%;
+    right: 25%;
+    top: 8.33%;
+    bottom: 8.33%;
+    background: url("E:\movie_app\src\FrontendAssignment\JobPage\Images\Doller.png");
+    background-size: cover;
+}
+.Rate{
+    position: absolute;
+    width: 141px;
+    height: 19px;
+    margin: 18px 45px 164px 59px;
+    /* left: 794px;
+    top: 401px; */
+    font-family: 'SF Pro';
+    font-style: normal;
+    font-weight: 590;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+    
+}
+.Hour{
+    position: absolute;
+    width: 173px;
+    height: 71px;
+    margin: 57px 13px 73px 59px;
+    /* border: 2px solid green; */
+    /* left: 794px;
+    top: 440px; */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+}

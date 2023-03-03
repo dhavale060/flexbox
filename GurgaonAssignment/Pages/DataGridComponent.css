@@ -1,0 +1,35 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  color: white;
+}
+.for_table{
+  margin-top: 6px;
+  margin-left: 10px;
+  width: 1048px;
+}
+
+.table_head{
+  border: 2px solid black;
+  background-color: black;
+}
+.for_center{
+  text-align: center;
+}
+table th{
+  text-align: center;
+}
+.for_pagination{
+  display: flex;
+    width: 342px;
+    height: 55px;
+    /* color: white; */
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid white; */
+    margin-top: 15px;
+    float: right;
+    background-color: #161C32;
+    margin-right: 40px
+}

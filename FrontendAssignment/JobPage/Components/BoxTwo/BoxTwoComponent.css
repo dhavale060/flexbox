@@ -1,0 +1,62 @@
+.Rectangle-19{
+    position: absolute;
+    width: 245px;
+    height: 201px;
+    margin: 383px 735px 1148px 460px;
+    /* border: 2px solid black; */
+    /* left: 460px;
+    top: 383px; */
+    background: #FFFFFF;
+    border-radius: 5px;
+}
+.Faverate{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    margin: 14px 201px 163px 20px;
+    /* border: 1px solid green; */
+    /* left: 480px;
+    top: 397px; */   
+}
+.faverate-star{
+    position: absolute;
+    left: 8.36%;
+    right: 8.19%;
+    top: 10.15%;
+    bottom: 10.13%;
+    width: 20.03px;
+    height: 19.13px;
+    /* margin-top: 2.44px;
+    margin-left: 2.01px; */
+    background: url("E:\movie_app\src\FrontendAssignment\JobPage\Images\Vstar.png");
+    background-size: cover;
+}
+.expirience{
+    position: absolute;
+    width: 109px;
+    height: 19px;
+    margin: 18px 73px 164px 63px;
+    /* left: 523px;
+    top: 401px; */
+    font-family: 'SF Pro';
+    font-style: normal;
+    font-weight: 590;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+}
+.Asso_text{
+    position: absolute;
+    width: 206px;
+    height: 76px;
+    margin: 57px 24px 68px 63px;
+    /* border: 2px solid black; */
+    /* left: 523px;
+    top: 440px; */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+}

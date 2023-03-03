@@ -1,0 +1,84 @@
+*{
+ margin: 0px;
+ padding: 0px;
+ box-sizing: border-box;
+}
+.cart_section{
+ width: 960px;
+ height: 900px;
+ /* border: 2px solid black; */
+ /* background-color: white; */
+ margin-top: 45px;
+ margin-left: 50px;
+ /* display: flex; */
+ /* flex-direction:column;
+ justify-content: center;
+ align-items: center; */
+ overflow-y: scroll;
+}
+.card_box{
+    width: 938px;
+    height: 250px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-left: 5px;
+    margin-top: 5px;
+    /* background-color: grey; */
+    /* margin-right: 0px; */
+    margin-bottom: 15px;
+    position: relative;
+}
+.card_box:last-child{
+   margin-bottom: 0px !important;
+}
+.img_box{
+  width: 41.66666667%;
+  border-right: 1px solid black;
+  height: 250px;
+}
+.text_box{
+  height: 250px;
+}
+.carsol_box{
+ /* width: 41.66666667%; */
+ height: 250px;
+}
+.for_head_2{
+  font-family: serif;
+  position: absolute;
+  color: black;
+  font-size: 18px;
+  margin-top: 15px;
+}
+.location_icon{
+  position: absolute;
+  margin-top: 85px;
+}
+.for_icone{
+  margin-right: 5px;
+}
+.car_icone{
+  margin-right: 5px;
+}
+.car_distance{
+  position: absolute;
+  margin-top:120px;
+}
+.bar{
+  position: absolute;
+  margin-top: 119px;
+  margin-left: 72px;
+  font-size: larger;
+  color: black;
+}
+.distance_text{
+  position: absolute;
+  margin-top: 120px;
+  margin-left: 85px;
+}
+.gym_city{
+  position: absolute;
+  margin-top: 155px;
+  font-size: large;
+  color: black;
+}

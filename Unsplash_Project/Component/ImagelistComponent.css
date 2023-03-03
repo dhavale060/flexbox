@@ -1,0 +1,32 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;  
+}
+/* .container_2{
+  height: 500px;
+  width: 700px;
+} */
+.image_container{
+  grid-column-gap:20px;
+  grid-row-gap: 20px;
+  align-items: start;
+  display: grid;
+  grid-template-columns: repeat(auto-fill,minmax(300px,1fr));
+  margin-left: 10px;
+}
+/* .card-box{
+  height: 300px;
+  width: 300px;
+} */
+.ripi6 {
+  display: grid;
+  grid-template-columns: minmax(0,1fr);
+  row-gap: 24px;
+}
+.card-img{
+  width: 380px;
+  height: 330px;
+  max-width: 100%;
+  max-height: 100%;
+}

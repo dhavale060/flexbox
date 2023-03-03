@@ -1,0 +1,27 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;  
+}  
+.container_main{
+  width: 1440px;
+  /* max-width: 1320px; */
+  height: 12462px;
+  background-color:#161C32 ;
+  z-index: 1;
+}
+@media screen and (max-width : 425px){
+  .container_main {
+    width: 725px;
+    /* max-width: 1320px; */
+    height: 12462px;
+    background-color: #161C32;
+    z-index: 1;
+}
+}
+/* .flat_div{
+  background-color:#707070;
+  width: 1920px;
+  height: 12462px;
+  z-index: 0.9;
+} */

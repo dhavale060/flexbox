@@ -1,0 +1,243 @@
+.reactangle_top{
+    position: absolute;
+    width: 1070px;
+    height: 229px;
+    margin-left: 185px;
+    margin-top: 130px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    /* border: 2px solid black; */
+}
+.image-1{
+    position: absolute;
+    width: 116px;
+    height: 130px;
+    margin: 20px 934px 79px 20px;
+    /* margin-left: 205px;
+    margin-top: 150px; */
+    /* background: url(image.png); */
+    border-radius: 3px;    
+}
+.Arch-text{
+    position: absolute;
+    width: 373px;
+    height: 35px;
+    margin: 24px 529px 170px 168px;
+    /* margin-left: 353px;
+    margin-top: 154px; */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    color: #000000;
+}
+.Black-text{
+    position: absolute;
+    width: 262px;
+    height: 19px;
+    margin: 79px 640px 151px 168px;
+    /* margin-left: 353px;
+    margin-top: 209px; */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    color: #000000;
+}
+.Posted-text{
+    position: absolute;
+    width: 156px;
+    height: 15px;
+    margin: 118px 746px 96px 168px;
+    /* margin-left: 353px;
+    margin-top: 248px; */
+    font-family: 'SF Pro';
+    font-style: normal;
+    font-weight: 590;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+}
+.share-android{
+    position: absolute;
+    margin: 20px 87px 181px 955px;
+    width: 28px;
+    height: 28px;
+    background: url("E:\movie_app\src\FrontendAssignment\JobPage\Images\share-android.png");
+    /* left: calc(50% - 28px/2 + 434px);
+    top: calc(50% - 28px/2 - 702px); */
+    /* border: 2px solid black; */
+    background-size: cover;    
+}
+.User-interface{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    margin: 22px 48px 183px 998px;
+    /* border: 2px solid black; */
+    /* margin-left: 1183px;
+    margin-top: 152px;     */
+}
+.save{
+    position: absolute;
+    /* width: 24px;
+    height: 24px; */
+    /* left: 1183px;
+    top: 152px; */
+    /* margin:5px 2px ; */
+    background: url("E:\movie_app\src\FrontendAssignment\JobPage\Images\Vector.png"); 
+    background-size: cover; 
+    left: 20.83%;
+    right: 20.83%;
+    top: 8.33%;
+    bottom: 8.33%;   
+}
+.Reactangle-2625{
+    position: absolute;
+    width: 323px;
+    height: 36px;
+    margin: 70px 46px 123px 701px;
+    /* margin-left: 886px;
+    margin-top: 200px; */
+    background: #BBFEB5;
+    border-radius: 3px;
+}
+.Status-text{
+    position: absolute;
+    width: 297px;
+    height: 19px;
+    display: flex;
+    justify-content: space-around;
+    /* align-items: center; */
+    font-family: 'SF Pro';
+    font-style: normal;
+    font-weight: 590;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+    /* margin: 75px 58px 135px 715px; */
+    margin: 5px 12px 12px 14px;
+    /* margin-left: 900px;
+    margin-top: 205px; */
+    /* border: 2px solid red; */
+}
+/* .Status-text span{
+position: absolute;
+width: 297px;
+height: 19px;
+align-items: center;
+justify-content: space-around;
+display: inherit;
+/* left: 900px;
+top: 205px; */
+/* font-family: 'SF Pro';
+font-style: normal;
+font-weight: 590;
+font-size: 20px;
+line-height: 24px;
+color: #000000;
+}  */
+.reactangle-11{
+    position: absolute;
+    width: 242px;
+    height: 44px;
+    margin: 126px 46px 59px 782px;
+    /* margin-left: 967px;
+    margin-top: 256px; */
+    background: linear-gradient(86.54deg, #F26A5C 7.4%, #F29C6B 115.84%);
+    border-radius: 50px;
+}
+.reactangle-11 p{
+    position: absolute;
+    width: 186px;
+    height: 24px;
+    margin: 10px 25px 10px 31px;
+    /* margin-left: 998px;
+    margin-top: 266px; */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+.reactangle-33{
+    box-sizing: border-box;
+    position: absolute;
+    width: 129px;
+    height: 30px;
+    margin: 172px 921px 27px 20px;
+    /* margin-left: 205px;
+    margin-top: 302px; */
+    background: #0F1420;
+    /* border: 1.5px solid #0F1420; */
+    border-radius: 40px;
+}
+.reactangle-33 p{
+    position: absolute;
+    width: 98px;
+    height: 19px;
+    margin: 7px 11px 4px 20px;
+    /* margin-left: 225px;
+    margin-top: 309px; */
+    font-family: 'SF Pro';
+    font-style: normal;
+    font-weight: 590;
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
+    
+}
+.reactangle-32{
+    position: absolute;
+    width: 102px;
+    height: 30px;
+    margin: 172px 807px 27px 161px;
+    /* margin-left: 346px;
+    margin-top: 302px; */
+    background: #E7FFCD;
+    border-radius: 40px;
+}
+.reactangle-32 p{
+    position: absolute;
+    width: 68px;
+    height: 19px;
+    margin: 7px 17px 4px 17px;
+    /* margin-left: 363px;
+    margin-top: 309px; */
+    font-family: 'SF Pro';
+    font-style: normal;
+    font-weight: 590;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    
+}
+.reactangle-2425{
+    position: absolute;
+    width: 107px;
+    height: 30px;
+    margin: 172px 688px 27px 275px;
+    /* margin-left: 460px;
+    margin-top: 302px; */
+    background: #CCE6FF;
+    border-radius: 40px;
+    
+}
+.reactangle-2425 p{
+    position: absolute;
+    width: 84px;
+    height: 19px;
+    margin: 7px 9px 4px 14px;
+    /* margin-left: 474px;
+    margin-top: 309px; */
+    font-family: 'SF Pro';
+    font-style: normal;
+    font-weight: 590;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+}

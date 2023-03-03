@@ -1,0 +1,14 @@
+.searchbar{
+  flex-grow: 1;
+}
+.input_1{
+ font-size: 14px;
+ color: #111;
+ position: relative;
+ border: 1px solid #0000;
+ border-radius: 5px;
+ height: 40px;
+ background-color: #eee;
+ display: flex;
+ transition: all .1s ease-in-out;
+}
