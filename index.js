@@ -40,28 +40,28 @@ import 'semantic-ui-css/semantic.min.css';
 // import List from './TODO_LIST/List';
 // import Navabar from './WTF_Assignment/Header/Navabar';
 // import Section1 from './WTF_Assignment/Components/Section1';
-// import App from './WTF_Assignment/App';
-// import { Provider } from 'react-redux';
+import App from './WTF_Assignment/App';
+import { Provider } from 'react-redux';
 // import persistStore from 'redux-persist/es/persistStore';
 // import { PersistGate } from 'redux-persist/integration/react';
-// import store from './WTF_Assignment/Redux/Store/Store';
+import store from './WTF_Assignment/Redux/Store/Store';
 // import Date from './Assignment_5/Tutoreal';
 // import Tutoreal from './Assignment_5/Tutoreal';
 // import Image from './Assignment_5/Image';
 // import ArrFilter from './TwoWayBind/ArrFilter';
 // import Home from './useReducerHook_Demo/Components/Home';
 // import App from './PropDrilling-Project/App';
-import App from './todolist/App';
-import StateContext from './todolist/StateContext';
+// import App from './todolist/App';
+// import StateContext from './todolist/StateContext';
 // import HeaderComponent from './FrontendAssignment/JobPage/Components/Header/HeaderComponent';
 
 // let persistore = persistStore(AdminStore);
 const root = ReactDOM.createRoot(document.getElementById('root')); 
 root.render(
   <React.StrictMode>
-     <StateContext>
+   <Provider store={store}>
      <App/>
-     </StateContext>
+   </Provider>
   </React.StrictMode>
 );
 
